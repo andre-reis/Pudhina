@@ -3,8 +3,8 @@ title: André Reis
 description: >
   I love to help teams build awesome web applications. Enthusiast about distributed systems, UX, books, running and cooking.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://andre-reis.github.io/website/" # the base hostname & protocol for your site
+baseurl: "website" # the subpath of your site, e.g. /blog/
+url: "https://andre-reis.github.io/" # the base hostname & protocol for your site
 
 author:
   fullname: André Reis
