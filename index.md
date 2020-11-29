@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title: Hello there! 😊
+subtitle: My name is André
 sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/bw.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>I love to help teams build awesome web applications.</p>
+	<p>Enthusiast about distributed systems, UX, books, running and <strike>cooking</strike> eating.</p>
+	<p><strong>Think, then execute!</strong></p>
 </div>

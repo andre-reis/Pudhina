@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-subtitle: Select ramblings of Pudhina
+subtitle: Comming soon ..
 ---
 
 <div>
@@ -28,3 +28,5 @@ subtitle: Select ramblings of Pudhina
 </ul>
 {% endfor %}
 </div>
+<!-- Adding the glitch effect -->
+<script> document.getElementsByTagName('body')[0].classList.add('glitch'); </script>
