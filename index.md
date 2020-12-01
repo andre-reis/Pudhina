@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/bw.png' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/bw.webp' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>I love to help teams build awesome web applications.</p>
