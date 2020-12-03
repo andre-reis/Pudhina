@@ -40,16 +40,6 @@ sitemap:
       {% else %}
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       {% endif %}
-      {% if page.sitemap.changefreq %}
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-      {% else %}
-        <changefreq>monthly</changefreq>
-      {% endif %}
-      {% if page.sitemap.priority %}
-        <priority>{{ page.sitemap.priority }}</priority>
-      {% else %}
-        <priority>0.5</priority>
-      {% endif %}
     </url>
     {% endunless %}
   {% endfor %}
