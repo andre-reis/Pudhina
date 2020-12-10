@@ -42,9 +42,11 @@ subtitle:
                             Feel free to drop an email to:
                             <a href="mailto:andre66r+amom@gmail.com">andre66r@gmail.com</a>
                         </p>
-
-<img src="{{ '/assets/img/amomLogo.webp' | prepend: site.baseurl }}" style="display: block; margin-left: auto;margin-right: auto;width: 15%" />
-
+                        <picture>
+                        <source srcset="{{ '/assets/img/amomLogo.webp' | prepend: site.baseurl }}" type="image/webp" style="display: block; margin-left: auto;margin-right: auto;width: 15%" />
+                        <source srcset="{{ '/assets/img/amomLogo.png' | prepend: site.baseurl }}" type="image/png" style="display: block; margin-left: auto;margin-right: auto;width: 15%" />
+                        <img src="{{ '/assets/img/amomLogo.png' | prepend: site.baseurl }}" style="display: block; margin-left: auto;margin-right: auto;width: 15%" />
+                        </picture>
                         <h2>Mobile app</h2>
                         <img src="{{ '/assets/img/amom-screenshot.png' | prepend: site.baseurl }}">
                         <p>
