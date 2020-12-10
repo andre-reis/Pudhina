@@ -23,3 +23,20 @@ styles: [agate, androidstudio, arta, asceti, atelier-cave.dark, atelier-cave.lig
 # Build settings
 highlighter: null
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: André Reis
+  twitter: andr3reis
+  image: /assets/img/bw.png
+twitter:
+  username: andr3reis
+  card: summary_large_image
+social:
+  name: André Reis
+  links:
+    - https://twitter.com/andr3reis
+    - https://www.linkedin.com/in/andr3reis
+    - https://github.com/andre-reis
