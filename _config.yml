@@ -13,7 +13,8 @@ author:
   email: message.reis+ws@gmail.com
   instagram: andr3reis
   deviantart: evilfriend
-
+  twitter: andr3reis
+  image: /assets/img/bw.png
 
 # Syntax highlighting
 highlightstyle: 'rainbow'
@@ -27,10 +28,6 @@ markdown: kramdown
 plugins:
   - jekyll-seo-tag
 
-author:
-  name: André Reis
-  twitter: andr3reis
-  image: /assets/img/bw.png
 twitter:
   username: andr3reis
   card: summary_large_image
