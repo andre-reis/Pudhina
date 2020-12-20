@@ -4,6 +4,7 @@ title: Hello there! 😊
 subtitle: My name is André
 sitemap:
   priority: 0.9
+canonical_url: 'https://reis.is'
 ---
 <picture>
   <source srcset="{{ '/assets/img/bws.webp' | prepend: site.baseurl }}" id="about-img" type="image/webp">
@@ -12,7 +13,7 @@ sitemap:
 </picture>
 
 <div id="describe-text">
-	<p>I love to help teams build awesome web applications.</p>
-	<p>Enthusiast about distributed systems, UX, books, running and <strike>cooking</strike> eating.</p>
-	<p><strong>Think, then execute!</strong></p>
+	<h2>I love to help teams build awesome web applications.</h2>
+	<h2>Enthusiast about distributed systems, UX, books, running and <strike>cooking</strike> eating.</h2>
+	<h3><strong>Think, then execute!</strong></h3>
 </div>

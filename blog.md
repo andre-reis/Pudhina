@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 subtitle: Comming soon ..
+canonical_url: 'https://reis.is/blog'
 ---
 
 <div>

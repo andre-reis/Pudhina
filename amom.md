@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Amom
+title: Amom - Custom daily assistant for people with memory problems
 subtitle: 
+canonical_url: 'https://reis.is/amom'
 ---
 
 
@@ -11,9 +12,9 @@ subtitle:
             <div id="" class="article">
                 <div class="tittle">
                     <div class="row">
-                            <h3>
+                            <h2>
                                 Custom daily assistant for people with memory problems
-                            </h3>
+                            </h2>
                     </div>
                 </div>
                 <div class="row body">
