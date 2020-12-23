@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Amom - Custom daily assistant for people with memory problems
+title: Amom is a customizable daily assistant for people with memory problems
 subtitle: 
 canonical_url: 'https://reis.is/amom'
 ---
@@ -10,13 +10,6 @@ canonical_url: 'https://reis.is/amom'
     <div id="container">
         <div id="body">
             <div id="" class="article">
-                <div class="tittle">
-                    <div class="row">
-                            <h2>
-                                Custom daily assistant for people with memory problems
-                            </h2>
-                    </div>
-                </div>
                 <div class="row body">
                     <div class="col-sm-12 col-md-3"></div>
                     <div class="col-sm-12 col-md-6">
