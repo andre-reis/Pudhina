@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 subtitle: 
-canonical_url: 'https://reis.is/projects'
+canonical_url: 'https://reisandre.com/projects'
 ---
 
 <div class="center-text">

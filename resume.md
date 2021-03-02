@@ -2,7 +2,7 @@
 layout: page
 title: Résumé
 subtitle: A geek by design
-canonical_url: 'https://reis.is/resume'
+canonical_url: 'https://reisandre.com/resume'
 ---
 
 <span style="float: right; "><a href="{{ '/assets/doc/Resume-AndreReis.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>

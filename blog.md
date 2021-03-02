@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 subtitle: Comming soon ..
-canonical_url: 'https://reis.is/blog'
+canonical_url: 'https://reisandre.com/blog'
 ---
 
 <div>

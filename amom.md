@@ -2,7 +2,7 @@
 layout: page
 title: Amom is a customizable daily assistant for people with memory problems
 subtitle: 
-canonical_url: 'https://reis.is/amom'
+canonical_url: 'https://reisandre.com/amom'
 ---
 
 

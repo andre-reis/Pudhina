@@ -4,7 +4,7 @@ title: Hello there! 😊
 subtitle: My name is André
 sitemap:
   priority: 0.9
-canonical_url: 'https://reis.is'
+canonical_url: 'https://reisandre.com'
 ---
 <picture>
   <source srcset="{{ '/assets/img/bws.webp' | prepend: site.baseurl }}" id="about-img" type="image/webp">
