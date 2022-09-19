@@ -23,9 +23,15 @@ import { React Native, Angular, Node, Express, MongoDB } from 'JavaScript'
 SELECT * FROM MS SQL Server
 ```
 
+**DB/Communication**
+
+`ElasticSearch, Kafka, Postgres`
+
 **Serverless**
 
 `Azure > Function, Storage, Service Bus, Redis, ..`
+
+`AWS > DynamoDB, S3, Lambda, ..`
 
 **Operations**
 
@@ -33,9 +39,11 @@ SELECT * FROM MS SQL Server
 
 `Azure Portal / AWS Console`
 
-`TeamCity / Octopus / Github / Gitlab`
+`Grafana / Prometheus / Stackify / New Relic`
 
-`Docker / Cloudformation`
+`TeamCity / Octopus / Github / Gitlab / ArgoCD`
+
+`Kubernetes / Docker / Cloudformation`
 
 `CloudFlare`
 
@@ -62,9 +70,9 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 ## EXPERIENCE
 
-.NET Developer - <a href="https://carnext.com">**CarNext.com**</a> <span style="float: right; ">Jun 2020 -> `now()`</span>  
+Senior Software Engineer + Tech Lead - <a href="https://carnext.com">**CarNext.com**</a> <span style="float: right; ">Jun 2020 -> `now()`</span>  
 
-.NET Developer + Software Architect - <a href="https://beerwulf.com">**Beerwulf.com**</a> <span style="float: right; ">Nov 2017 -> May 2020</span>  
+Software Engineer + Software Architect - <a href="https://beerwulf.com">**Beerwulf.com**</a> <span style="float: right; ">Nov 2017 -> May 2020</span>  
 
 <br>
 <div class="about"><div class="about__devider">*****</div></div>
