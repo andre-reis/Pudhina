@@ -70,7 +70,7 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 ## EXPERIENCE
 
-Senior Software Engineer + Tech Lead - <a href="https://carnext.com">**CarNext.com**</a> <span style="float: right; ">Jun 2020 -> `now()`</span>  
+Senior Software Engineer + Tech Lead - <a href="https://carnext.com">**CarNext.com**</a> <span style="float: right; ">Jun 2020 -> Oct 2022</span>  
 
 Software Engineer + Software Architect - <a href="https://beerwulf.com">**Beerwulf.com**</a> <span style="float: right; ">Nov 2017 -> May 2020</span>  
 
