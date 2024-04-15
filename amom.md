@@ -88,8 +88,21 @@ canonical_url: 'https://reisandre.com/amom'
                                 </ul>
                             </li>
                         </ul>
-                        
-
+                        <h2>User data deletion</h2>
+                        <p>
+                            To request that your account and associated data is deleted please send an email to:
+                            <a href="mailto:andre66r+amom@gmail.com">andre66r+amom@gmail.com</a>, 
+                            mentioning the email address you used to create an account.
+                        </p>
+                        <ul>
+                            <li>
+                                Developer Name: André Reis
+                            </li>
+                            <li>
+                                Types of data that are deleted: Email address, UserId, Audio Recordings, and Calendar events
+                            </li>
+                            
+                        </ul>
                         <!-- https://play.google.com/intl/en_us/badges/ -->
                     </div>
 
