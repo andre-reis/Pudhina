@@ -99,7 +99,7 @@ canonical_url: 'https://reisandre.com/amom'
                                 Developer Name: André Reis
                             </li>
                             <li>
-                                Types of data that are deleted: Email address, UserId, Audio Recordings, and Calendar events
+                                Types of data that are deleted: Email address, User ID, Voice or sound recordings, Calendar events.
                             </li>
                             
                         </ul>
